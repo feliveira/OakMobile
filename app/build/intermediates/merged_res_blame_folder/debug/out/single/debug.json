@@ -1,118 +1,154 @@
 [
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_mascara.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/mascara.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\cart.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/xml_backup_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_produto_activity.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\produto_activity.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_logo.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/logo.png"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_unigloves.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/unigloves.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_dencojet.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/dencojet.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_profile.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/profile.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_resina.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/resina.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_cadastro_activity.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\cadastro_activity.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_avental.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/avental.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/layout_cadastro_activity.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/layout/cadastro_activity.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_unigloves.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\unigloves.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_resina.jpg.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\resina.jpg"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_dencojet.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/dencojet.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\profile.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_unigloves.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/unigloves.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_avental.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\avental.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_resina.jpg.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/resina.jpg"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_cart.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/cart.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_expansor.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/expansor.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/layout_produto_activity.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/layout/produto_activity.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_profile.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/profile.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_avental.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/avental.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/drawable_cart.png.flat",
-        "source": "com.example.myapplication.app-main-31:/drawable/cart.png"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_logo.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/logo.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_expansor.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\expansor.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_odonto_itens.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\odonto_itens.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/layout_odonto_itens.xml.flat",
-        "source": "com.example.myapplication.app-main-31:/layout/odonto_itens.xml"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\logo.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_mascara.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/mascara.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_dencojet.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\dencojet.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/drawable_expansor.webp.flat",
+        "source": "com.example.myapplication.app-main-31:/drawable/expansor.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_mascara.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\mascara.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     }
 ]
